@@ -1,0 +1,1 @@
+# used wolfram, its multinomial 40 choose 20,20 = 40!/(20!^2)
